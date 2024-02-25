@@ -386,8 +386,10 @@ The datasets & benchmarks for LLM-related RS topics should maintain the original
 | BookCrossing | Book | [[Link]](http://www2.informatik.uni-freiburg.de/~cziegler/BX/) |
 | GoodReads | Book | [[Link]](https://mengtingwan.github.io/data/goodreads.html) |
 | Anime | Anime | [[Link]](https://www.kaggle.com/datasets/CooperUnion/anime-recommendations-database) |
-| PixelRec | Short Video | [[Link]](https://github.com/westlake-repl/PixelRec) |
+| PixelRec | Images | [[Link]](https://github.com/westlake-repl/PixelRec) |
 | Netflix | Movie | [[Link]](https://github.com/HKUDS/LLMRec) |
+| NineRec | Feeds (images, videos, ads) | [[Link]](https://github.com/westlake-repl/NineRec) |
+| MicroLens | Micro-videos | [[Link]](https://github.com/westlake-repl/MicroLens) |
     
 ### 2.2 Benchmarks
 
