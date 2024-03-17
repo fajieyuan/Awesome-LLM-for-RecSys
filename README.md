@@ -416,6 +416,7 @@ The datasets & benchmarks for LLM-related RS topics should maintain the original
 | Anime | Anime | [[Link]](https://www.kaggle.com/datasets/CooperUnion/anime-recommendations-database) |
 | PixelRec | Short Video | [[Link]](https://github.com/westlake-repl/PixelRec) |
 | Netflix | Movie | [[Link]](https://github.com/HKUDS/LLMRec) |
+| MicroLens | Video Streaming | [[Link]](https://github.com/westlake-repl/MicroLens) |
     
 ### 2.2 Benchmarks
 
@@ -425,6 +426,7 @@ The datasets & benchmarks for LLM-related RS topics should maintain the original
 | LLMRec | [[Link]](https://github.com/williamliujl/LLMRec) | [[Paper]](https://arxiv.org/abs/2308.12241) |
 | OpenP5 | [[Link]](https://github.com/agiresearch/OpenP5) | [[Paper]](https://arxiv.org/abs/2306.11134) |
 | TABLET | [[Link]](https://dylanslacks.website/Tablet) | [[Paper]](https://arxiv.org/abs/2304.13188) |
+| NineRec | [[Link]](https://github.com/westlake-repl/NineRec) | [[Paper]](https://arxiv.org/pdf/2309.07705.pdf#:~:text=To%20this%20end%2C%20we%20introduce,a%20high%2Dresolution%20cover%20image.) |
 
 ## 3. Related Repositories
 
